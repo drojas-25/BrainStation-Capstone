@@ -38,7 +38,7 @@ process, ensuring they make the most of their time and enjoy tailored experience
 - **categories**	Categories the business falls under	**string**
 - **hours**	Day of the week: Hours of operation	**string-Dict**
 
-- # User Data Set
+# User Data Set
 #### Data Dictionary
 - **user_id**  	Unique identifier for each user  	**string**
 - **name**	        Name of user	                **string**
@@ -63,7 +63,7 @@ process, ensuring they make the most of their time and enjoy tailored experience
 - **compliment_writer**	compliments received labeled as writer	**int64**
 - **compliment_photos**	compliments received labeled as photos	**int64**
 
-- # Review Data Set
+# Review Data Set
 #### Data Dictionary
 - **review_id**  	Unique identifier for each review  	**string**
 - **user_id**  	Unique identifier for each user  	**string**
