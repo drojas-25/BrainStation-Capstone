@@ -1,24 +1,20 @@
 # BrainStation-Capstone
 This is my capstone for the duration of the bootcamp at BrainStation
-# Introduction
-# Providing Travel Recommendations Using Machine Learning
-# Goal:
-## My project aims to develop a machine learning-based solution that provides personalized recommendations for travelers based on their preferences and past travel history
+## Urban Explorer: Machine Learning-Driven Discoveries
 
-My primary area of interest lies in traveling. The key challenge I've identified from personal
-experience is the difficulty in efficiently planning trips to specific cities while ensuring the
-activities align with personal preferences. Currently, travelers rely on generic resources such as
-guidebooks, websites, and social media, which often offer generic recommendations, leading
-to overcrowding at popular attractions. These resources also may not accurately represent
-local culture. So, my project aims to develop a solution that provides personalized
-recommendations for travelers based on their preferences and past travel history, ultimately
-enhancing the discoverability of cities and countries.
+### Overview
+Urban Explorer leverages machine learning to provide personalized recommendations for dining and activities, transforming the way users discover new experiences in their city or while traveling. By focusing on the recommendation system aspect, this project aims to enhance decision-making for users who face indecision about where to eat or what to do, especially in unfamiliar locales.
 
-These problems primarily affect travelers who prefer to plan ahead or are unfamiliar with the
-destination they are visiting. Particularly individuals from countries like the United States, where
-vacation time is limited, and feel pressure to maximize their travel experiences. Having a
-system that understands travelers' preferences can significantly streamline the trip-planning
-process, ensuring they make the most of their time and enjoy tailored experiences.
+### Project Goals
+- To offer tailored recommendations for restaurants and activities.
+- To address the needs of users looking for inspiration or guidance in choosing dining spots and engaging in local activities.
+- To improve upon existing recommendation systems by providing more personalized and dynamic suggestions.
+
+### Approach
+- **Data Preparation:** Conducted extensive EDA and preprocessing on restaurant data and user ratings. The focus was on ensuring data quality by filtering for well-reviewed businesses and active users across six cities.
+- **Model Development:** Utilized Funk SVD modeling to factorize user-business rating matrices into latent factors, capturing the preferences and attributes that drive personalized recommendations.
+- **Model Training and Evaluation:** Split data into training and test sets to refine accuracy, employing RMSE as the primary evaluation metric to measure performance and guide improvements.
+
 
 # Yelp Data Sets
 # Business Data Set
