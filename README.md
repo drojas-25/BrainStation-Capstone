@@ -28,7 +28,7 @@ Utilized Funk SVD modeling to factorize user-business rating matrices into laten
 Data was split into training and test sets to refine accuracy, employing RMSE as the primary evaluation metric to measure performance and guide improvements.
 
 ## Data
-To replicate this project, download the dataset used from the Yelp Dataset Challenge page at [Yelp Dataset](https://www.yelp.com/dataset).
+To replicate this project, download the dataset used from the Yelp Dataset page at [Yelp Dataset](https://www.yelp.com/dataset).
 
 ### Data Dictionaries
 
