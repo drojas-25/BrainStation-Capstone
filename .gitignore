@@ -1,0 +1,8 @@
+# ignoring folders
+**/WorkingNotebooks
+**/logs
+**/bin
+
+# ignoring specific file types
+*.DS_Store
+ 
