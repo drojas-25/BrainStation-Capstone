@@ -7,4 +7,5 @@
 *.DS_Store
 *.parquet
 *.csv
+*.json
  
