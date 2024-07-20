@@ -82,9 +82,9 @@ To replicate this project, download the dataset used from the Yelp Dataset page 
 ## Notebooks
 1. **1.1-EDA.ipynb** - Initial exploratory data analysis and data preprocessing for restaurants, users, and reviews.
 2. **1.2-TransformingData.ipynb** - Data transformation for data sets to begin modeling.
-3. **02-Restaurant_Modeling.ipynb** - Development of predictive models for restaurant ratings based on user preferences.
-4. **03-Activity_Modeling.ipynb** - Applying similar modeling techniques to predict user preferences for activities.
-5. **04-UserExploration.ipynb** - Detailed user-specific analysis and prediction, utilizing the models to generate personalized recommendations.
+3. **2.1-Restaurant_Modeling.ipynb** - Development of predictive models for restaurant ratings based on user preferences.
+4. **2.2-Activity_Modeling.ipynb** - Applying similar modeling techniques to predict user preferences for activities.
+5. **3.1-UserExploration.ipynb** - Detailed user-specific analysis and prediction, utilizing the models to generate personalized recommendations.
 
 ## Technologies Used
 - Python
