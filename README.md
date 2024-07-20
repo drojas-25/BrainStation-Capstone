@@ -80,15 +80,16 @@ To replicate this project, download the dataset used from the Yelp Dataset page 
 | date        	| Date the user submitted the review	           |
 
 ## Notebooks
-1. **01-EDA.ipynb** - Initial exploratory data analysis and data preprocessing for restaurants, users, and reviews.
-2. **02-Restaurant_Modeling.ipynb** - Development of predictive models for restaurant ratings based on user preferences.
-3. **03-Activity_Modeling.ipynb** - Applying similar modeling techniques to predict user preferences for activities.
-4. **04-UserExploration.ipynb** - Detailed user-specific analysis and prediction, utilizing the models to generate personalized recommendations.
+1. **1.1-EDA.ipynb** - Initial exploratory data analysis and data preprocessing for restaurants, users, and reviews.
+2. **1.2-TransformingData.ipynb** - Data transformation for data sets to begin modeling.
+3. **02-Restaurant_Modeling.ipynb** - Development of predictive models for restaurant ratings based on user preferences.
+4. **03-Activity_Modeling.ipynb** - Applying similar modeling techniques to predict user preferences for activities.
+5. **04-UserExploration.ipynb** - Detailed user-specific analysis and prediction, utilizing the models to generate personalized recommendations.
 
 ## Technologies Used
 - Python
 - Jupyter Notebook
-- Libraries: Pandas, Numpy, Matplotlib, Surprise
+- Libraries: Pandas, Numpy, Matplotlib, Scikit-Surprise, Streamlit
 
 ## Conclusion and Next Steps
 The project successfully implements a recommendation system for both dining and activities. Future work could involve integrating more cities and refining the recommendation engine.
