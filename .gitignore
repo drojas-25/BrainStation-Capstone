@@ -5,4 +5,6 @@
 
 # ignoring specific file types
 *.DS_Store
+*.parquet
+*.csv
  
